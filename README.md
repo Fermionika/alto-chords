@@ -4,4 +4,5 @@ The chords are chosen and simplified for beginner guitarists (no bar chords).
 
 To print or export the songs in PDF see https://www.chordpro.org/.
 
+I do not claim ownership of any songs. This project is for personal use only.
 I welcome any corrections and contributions.
